@@ -1,0 +1,25 @@
+
+/* logo details */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+header{
+    background-color: red;
+}
+
+#logo{
+    width: 49px;
+    height: 49px;
+    
+}
+
+#title{
+    display: inline-block;
+    margin-left: 40px;
+}
+
+/* title datails */
+
