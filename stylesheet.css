@@ -7,7 +7,7 @@
 }
 
 header{
-    background-color: red;
+    background-color:white
 }
 
 #logo{
@@ -20,6 +20,32 @@ header{
     display: inline-block;
     margin-left: 40px;
 }
+/* body  */
 
-/* title datails */
+body{
+    background-color:grey
+}
 
+
+/* first two buttoms */
+article{
+    background-color: brown;
+    margin-top: 126 px;
+    margin-left: 168;
+}
+
+#blue{ 
+    display: inline-block;
+    margin-left: 219px;
+    color: white;
+    background-color: dodgerblue;
+}
+
+#lightgrey{
+    color:darkgray;
+    background-color:white
+    border:darkgray;
+    margin-left: 290px;
+    display: inline-block;
+
+}
